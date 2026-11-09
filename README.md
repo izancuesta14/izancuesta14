@@ -19,7 +19,7 @@ I'm looking for internships and junior opportunities in **machine learning, deep
 | Project | What it shows |
 |---|---|
 | [**VAE vs Wasserstein Autoencoder**](https://github.com/izancuesta14/vae-wae-generative-models) | VAE (KL) compared with a Wasserstein Autoencoder (MMD) across 2D images and 3D voxel grids (MNIST, FashionMNIST, CIFAR-10, 3D-MNIST, ModelNet10), focused on where each regulariser breaks. |
-| [**HMDA Fairness Audit**](hhttps://github.com/izancuesta14/hmda-fairness-audit) | Detecting, quantifying and mitigating racial bias in mortgage lending decisions (HMDA New York 2024) with LightGBM, SHAP and Fairlearn. |
+| [**HMDA Fairness Audit**](https://github.com/izancuesta14/hmda-fairness-audit) | Detecting, quantifying and mitigating racial bias in mortgage lending decisions (HMDA New York 2024) with LightGBM, SHAP and Fairlearn. |
 
 More work, including coursework on classification, clustering, anomaly detection and reinforcement learning, is in my [repositories](https://github.com/izancuesta14?tab=repositories).
 
