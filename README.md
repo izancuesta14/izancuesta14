@@ -1,6 +1,6 @@
 # Izan Cuesta Corbí
 
-I'm an **Artificial Intelligence Engineering** student at the University of Alicante (Spain). I like understanding *why* a model works or fails, not just getting it to run: choosing the right metric, checking for data leakage, and looking at what the errors actually mean.
+I'm an **Artificial Intelligence Engineering** student at the University of Alicante (Spain). I like understanding *why* a model works, choosing the right metric, checking for data leakage, and looking at what the errors actually mean.
 
 I'm looking for internships and junior opportunities in **machine learning, deep learning and data science**.
 
